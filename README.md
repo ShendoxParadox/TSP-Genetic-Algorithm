@@ -48,7 +48,7 @@ Contributions to this repository are welcome. If you have any ideas, suggestions
 
 ## License
 
-This project is licensed under the [The Unlicense][LICENSE](https://github.com/ShendoxParadox/TSP-Genetic-Algorithm/blob/main/LICENSE).
+This project is licensed under the [The Unlicense] [LICENSE](https://github.com/ShendoxParadox/TSP-Genetic-Algorithm/blob/main/LICENSE).
 
 ## Solution Example
 
